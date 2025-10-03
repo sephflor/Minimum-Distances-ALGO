@@ -1,1 +1,1 @@
-# Minimum-Distances-ALGO
+# Minimum-Distances-ALGO.This program finds the minimum distance between two equal elements in the array by tracking the last seen index of each number with a dictionary. If no duplicates exist, it returns -1; otherwise, it outputs the smallest distance found.
